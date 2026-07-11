@@ -18,4 +18,4 @@ HKU Student
 
 #### Other portfolio
 
-Other portfolio please refer to: [https://1drv.ms/f/c/1606f85b34e39fb8/IgBP7WxdYbFERLkFnTBU0OMrATsJijjOw_dg8X_Kb45OS3s?e=ZhC9l8](<portfolio from my student years>)
+[Click here to view my portfolio from my student years](https://1drv.ms/f/c/1606f85b34e39fb8/IgBP7WxdYbFERLkFnTBU0OMrATsJijjOw_dg8X_Kb45OS3s?e=ZhC9l8)
