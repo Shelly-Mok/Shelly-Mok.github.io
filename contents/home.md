@@ -1,4 +1,4 @@
-[![ShellyMok](https://img.shields.io/badge/shellymok-github-blue?logo=github)](https://github.com/bruceqd)
+[![ShellyMok](https://github.com/Shelly-Mok)](https://github.com/bruceqd)
 
 寧願犯錯，不要Boring
 
