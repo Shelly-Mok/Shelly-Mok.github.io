@@ -1,4 +1,4 @@
-[![ShellyMok](https://github.com/Shelly-Mok)](https://github.com/bruceqd)
+[ShellyMok](https://github.com/Shelly-Mok)
 
 寧願犯錯，不要Boring
 
